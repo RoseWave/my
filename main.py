@@ -1,7 +1,7 @@
 def proc1():
     slovo = input()
     x = ''
-    while slovo != "stop":
+    while slovo != "stop1":
             x = x + slovo + ' '
             slovo = input()
     print(x)
